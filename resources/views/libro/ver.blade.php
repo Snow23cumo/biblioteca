@@ -1,0 +1,1 @@
+<div class="center">{{ $libro->titulo }}</div>
